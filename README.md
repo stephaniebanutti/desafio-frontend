@@ -1,6 +1,6 @@
 # :nail_care: Frontend challenge - Cadastro de usuário
 
-Desafio para avaliar o candidato que queira ingressar na Intrabank como desenvolvedor frontend
+Desafio para avaliar o candidato que queira ingressar no Intrabank como desenvolvedor frontend
 
 ## O desafio
 
