@@ -1,6 +1,6 @@
 # :nail_care: Frontend challenge - Cadastro de usuário
 
-Desafio para avaliar o candidato que queira ingressar no Intrabank como desenvolvedor frontend
+Desafio para avaliar o candidato que queira ingressar no Intrabank como desenvolvedor frontend.
 
 ## O desafio
 
@@ -12,7 +12,7 @@ O [layout](https://www.figma.com/file/bVq19HGbDCOCScIwLIBnbp/Teste-t%C3%A9cnico?
 
 ## Sobre a API
 
-Temos duas rotas de uma API de usuário para que você possa desenvolver a aplicação 
+Temos duas rotas de uma API de usuário para que você possa desenvolver a aplicação: 
 
 ```sh
 "https://629f52338b939d3dc29519e3.mockapi.io/api/challenge"
